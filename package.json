@@ -1,0 +1,24 @@
+{
+  "name": "backendnode",
+  "version": "1.0.0",
+  "description": "This is a repo to test out the node backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "api": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edelmorataya/backendNode.git"
+  },
+  "author": "Edel Morataya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edelmorataya/backendNode/issues"
+  },
+  "homepage": "https://github.com/edelmorataya/backendNode#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
